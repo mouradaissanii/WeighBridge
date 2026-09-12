@@ -1,6 +1,7 @@
 # WeighBridge — Terminal Weighbridge Management System (Desktop Client)
 
-> 🎓 PFE (Projet de Fin d'Études) — Bachelor’s Final-Year Project
+> 🎓 PFE (Projet de Fin d'Études) — Bachelor’s Final-Year Project.
+> 
 > This repository contains **the frontend/desktop client** I built as my individual contribution to a team project.
 
 ---
@@ -69,8 +70,11 @@ Navigation works through a single `MainViewModel`, which caches one ViewModel+Vi
 ### Dashboard
 ![Dashboard](docs/screenshots/dashboard.png)
 
-### Weighing Console
-![Weighing Console](docs/screenshots/weighing-console.png)
+### Weighing Console Single Mode
+![Weighing Console](docs/screenshots/weighing-console1.png)
+
+### Weighing Console Dual Mode
+![Weighing Console](docs/screenshots/weighing-console2.png)
 
 ### Container Tracking
 ![Container Tracking](docs/screenshots/container-tracking.png)
